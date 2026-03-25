@@ -51,21 +51,4 @@ o comportamento visual e uma base de implementacao.
 - `Vapour Text Effect`
 - `Variable Proximity`
 
-## Efeitos Organizados Desta Vez
-
-Os quatro efeitos importados de um projeto anterior foram adicionados em
-`components` com nomes curtos e consistentes:
-
-- `Cinematic Navbar`: navbar premium que expande de pill para menu editorial com midia.
-- `Stacked Cards Scroll`: pilha de cards guiada por scroll com transformacoes em cascata.
-- `Staggered Stack Carousel`: carrossel organicamente desalinhado com foco no card central.
-- `3D Marquee Testimonials`: coluna infinita de depoimentos com perspectiva 3D.
-
-## Padrao Sugerido Para Novas Entradas
-
-1. Criar uma pasta com o nome do efeito dentro da categoria correta.
-2. Adicionar um arquivo `.md` com o mesmo nome da pasta.
-3. Manter, sempre que fizer sentido, as secoes:
-   `Resumo`, `Quando usar`, `Stack sugerida`, `Mecanica do efeito`,
-   `Checklist de implementacao`, `Prompt de reutilizacao` e `Snippet base`.
 
